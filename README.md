@@ -309,7 +309,7 @@ The test also demonstrates an important trade-off: concurrent workloads improve 
 <br>
 
 <p align="center">
-  <img src="docs/images/concurrent-qwen.png"
+  <img src="https://github.com/user-attachments/assets/73ba29e5-74fc-457d-a679-de2bba25210c"
        alt="Qwen Concurrent Benchmark"
        width="850">
 </p>
@@ -322,7 +322,7 @@ The test also demonstrates an important trade-off: concurrent workloads improve 
 <br>
 
 <p align="center">
-  <img src="docs/images/concurrent-openai.png"
+  <img src="https://github.com/user-attachments/assets/208c3214-4410-4b7c-9b7e-a5cbf9606285"
        alt="OpenAI Concurrent Benchmark"
        width="850">
 </p>
