@@ -25,10 +25,11 @@ The project combines **multimodal content extraction, RAG, local GPU inference, 
 The Streamlit interface allows users to upload learning content, select an inference backend, and inspect the generated tagging and competency-mapping results.
 
 <p align="center">
-  <img src="docs/gifs/streamlit-demo.gif"
+  <img src="https://github.com/user-attachments/assets/a36c7642-9233-4d31-ab3e-850c2302df29""
        alt="CTCM Streamlit Demo"
        width="1000">
 </p>
+
 
 ---
 
@@ -241,6 +242,7 @@ These measurements are specific to the capstone benchmark workload and test envi
        alt="Full Benchmark Execution"
        width="100%">
 </p>
+
 
 </details>
 
