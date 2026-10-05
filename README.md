@@ -285,7 +285,7 @@ Concurrency was evaluated with:
 - **9 requests per model**
 
 <p align="center">
-  <img src="docs/images/concurrent-benchmark-summary.png"
+  <img src="https://github.com/user-attachments/assets/f9917c3a-567e-4293-a677-2dc387a6aa8a"
        alt="Concurrent Benchmark Summary"
        width="900">
 </p>
