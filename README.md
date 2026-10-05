@@ -1,3 +1,4 @@
+
 # Content Tagging & Competency Mapping (CTCM)
 
 **Team 2 — AI Data Center Operations Capstone**
@@ -208,7 +209,7 @@ results_final/
 ## Final Benchmark Results
 
 <p align="center">
-  <img src="docs/images/benchmark-performance-accuracy-summary.png"
+  <img  src="https://github.com/user-attachments/assets/f4a36673-9028-40fd-bf6e-0d1889c914e6"
        alt="CTCM Final Benchmark Performance and Accuracy"
        width="100%">
 </p>
