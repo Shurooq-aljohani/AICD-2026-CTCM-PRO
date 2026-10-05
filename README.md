@@ -238,11 +238,10 @@ These measurements are specific to the capstone benchmark workload and test envi
 <br>
 
 <p align="center">
-  <img src="docs/images/full-benchmark-test.png"
+  <img src="https://github.com/user-attachments/assets/8894d208-53ca-4157-b138-fa0b43876d86"
        alt="Full Benchmark Execution"
        width="100%">
 </p>
-
 
 </details>
 
