@@ -338,7 +338,7 @@ Qwen is served through vLLM `AsyncLLMEngine`.
 Three Qwen requests were launched simultaneously:
 
 <p align="center">
-  <img src="docs/images/concurrent-requests-validation.png"
+  <img src="https://github.com/user-attachments/assets/10dd9fb5-0922-4b8f-9433-aea42d382d0a"
        alt="Three Concurrent Qwen Requests"
        width="900">
 </p>
@@ -353,7 +353,7 @@ Pending: 0 reqs
 ```
 
 <p align="center">
-  <img src="docs/images/vllm-continuous-batching-evidence.png"
+  <img src="https://github.com/user-attachments/assets/d569fd69-dbd1-41cf-83d9-7c157d0d7edb"
        alt="vLLM Continuous Batching Evidence"
        width="100%">
 </p>
@@ -361,7 +361,7 @@ Pending: 0 reqs
 Prometheus also recorded three simultaneously running Qwen inference requests:
 
 <p align="center">
-  <img src="docs/images/qwen-running-requests-grafana.png"
+  <img src="https://github.com/user-attachments/assets/56f81599-0ef2-47e1-a0ea-53ef44c836f4"
        alt="Qwen vLLM Concurrent Requests"
        width="1000">
 </p>
@@ -401,7 +401,7 @@ docker push noura93/content-tagging:gpu-v1
 <br>
 
 <p align="center">
-  <img src="docs/images/docker-build-and-push.png"
+  <img src="https://github.com/user-attachments/assets/934a8d50-0dce-4cd0-a10a-ec75fa101166"
        alt="Docker Build and Push"
        width="900">
 </p>
@@ -448,7 +448,7 @@ kubectl apply -f k8s/grafana.yaml
 The application and observability workloads were verified running successfully in the `ctcm` namespace.
 
 <p align="center">
-  <img src="docs/images/kubernetes-pods-running.png"
+  <img src="https://github.com/user-attachments/assets/68ae2fc1-01ae-4f56-be11-e0ec3d225880"
        alt="CTCM Kubernetes Pods Running"
        width="1000">
 </p>
@@ -506,7 +506,7 @@ The project uses:
 ### Grafana Dashboard
 
 <p align="center">
-  <img src="docs/gifs/grafana-dashboard-demo.gif"
+  <img src="https://github.com/user-attachments/assets/b126b9ea-1eea-4fc6-85a7-96819051efa3" 
        alt="CTCM Grafana Observability Dashboard"
        width="1000">
 </p>
@@ -561,7 +561,7 @@ vLLM and GPU metrics apply only to **Qwen**, because OpenAI inference is handled
 ### Qwen vs OpenAI Request Rate
 
 <p align="center">
-  <img src="docs/images/request-rate-qwen-openai.png"
+  <img src="https://github.com/user-attachments/assets/d0c4fc20-23dd-44c0-bf2b-f18c8db3aee4"
        alt="Qwen vs OpenAI Request Rate"
        width="1000">
 </p>
@@ -749,7 +749,7 @@ AIDC-CTCM-Team2/
 <br>
 
 <p align="center">
-  <img src="docs/images/deployment-readiness-check.png"
+  <img src="https://github.com/user-attachments/assets/7ff2aac6-a290-41ff-83c8-79d060f761ec"
        alt="Deployment Readiness Check"
        width="900">
 </p>
@@ -764,7 +764,7 @@ The readiness script used strict development thresholds. Its historical `< 10 s`
 <br>
 
 <p align="center">
-  <img src="docs/images/smoke-test-both-models.png"
+  <img src="https://github.com/user-attachments/assets/a4a6e553-c578-4c30-b0be-0fa18182e4f8" 
        alt="Smoke Test Both Models"
        width="100%">
 </p>
